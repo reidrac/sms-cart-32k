@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name edge_connector_25x2)(type KiCad)(uri "$(KIPRJMOD)/edge_connector_25x2.pretty")(options "")(descr ""))
+)
