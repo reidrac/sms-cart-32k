@@ -13,4 +13,5 @@ References:
 
  - http://www.smspower.org/Development/Documents
  - http://little-scale.blogspot.co.uk/2008/06/how-to-make-32kb-sega-master-system.html
+ - Edge connector for KiCad from this thread: http://www.smspower.org/forums/13046-32KSMSCartridgePCBLayoutFeedbackWantedPlease
 
