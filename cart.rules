@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 509)
+    (start_pass_no 634)
     (layer_rule F.Cu
       (active on)
       (preferred_direction vertical)
@@ -63,7 +63,7 @@
     )
   )
   (class "kicad_default"
-    GND VCC /a14 /a13 /a8 /a9 /a11 OE
+    VCC GND /a14 /a13 /a8 /a9 /a11 OE
     /a10 CE /d7 /d6 /d5 /d4 /d3 /d2
     /d1 /d0 /a0 /a1 /a2 /a3 /a4 /a5
     /a6 /a7 /a12 /a15
